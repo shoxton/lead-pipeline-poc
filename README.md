@@ -1,3 +1,6 @@
+### Demo
+![](https://github.com/shoxton/lead-pipeline-poc/blob/main/demo.gif)
+
 ### Run the following commands to install and run the project
 The app uses Vite to run the development environment - [Node.js (+16) required](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
 ```sh
